@@ -1,5 +1,5 @@
 # SDL Games
-This repository contains three clones of old arcade games made within the Uppsala University's second semester of [Game Design and Programming programme](https://www.uu.se/en/admissions/bachelor/programme/?pKod=HSP1K). 
+This repository contains three clones of old arcade games made within the Uppsala University's second semester of [Game Design and Programming programme](https://www.uu.se/en/admissions/bachelor/programme/?pKod=HSP1K). The games were written from scratch in C++ on custom game engine made on SDL base by course responsible. The base engine can be checked in BaseEngine folder
 
 ### Snake
 This project replicates the fundamentals of Snake. There is no win condition and it lasts as long as the head of snake doesn't collide with any wall or its own body. 
